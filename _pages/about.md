@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Postdoctoral researcher at Aalborg University</a>. Will design controllers for food!
+subtitle: "<a href='#'>Postdoctoral researcher at Aalborg University</a>. Will design controllers for food!"
 
 profile:
   align: right
